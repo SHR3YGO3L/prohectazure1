@@ -1,52 +1,53 @@
 [
     {
-        "relative_url" : "SHR3YGO3L/projectsem7/blob/main/project-azure1/Data/AdventureWorks_Product_Categories.csv",
+        "relative_url" : "SHR3YGO3L/prohectazure1/refs/heads/main/Data/AdventureWorks_Product_Categories.csv",
         "dynamic_folder" : "AdventureWorks_Product_Categories",
         "dynamic_file" : "AdventureWorks_Product_Categories.csv"
     },
     {
-        "relative_url" : "SHR3YGO3L/projectsem7/blob/main/project-azure1/Data/AdventureWorks_Calendar.csv",
+        "relative_url" : "SHR3YGO3L/prohectazure1/refs/heads/main/Data/AdventureWorks_Calendar.csv",
         "dynamic_folder" : "AdventureWorks_Calendar",
         "dynamic_file" : "AdventureWorks_Calendar.csv"
     },
     {
-        "relative_url" : "SHR3YGO3L/projectsem7/blob/main/project-azure1/Data/AdventureWorks_Customers.csv",
+        "relative_url" : "SHR3YGO3L/prohectazure1/refs/heads/main/Data/AdventureWorks_Customers.csv",
         "dynamic_folder" : "AdventureWorks_Customers",
         "dynamic_file" : "AdventureWorks_Customers.csv"
     },
     {
-        "relative_url" : "SHR3YGO3L/projectsem7/blob/main/project-azure1/Data/AdventureWorks_Product_Subcategories.csv",
+        "relative_url" : "SHR3YGO3L/prohectazure1/refs/heads/main/Data/AdventureWorks_Product_Subcategories.csv",
         "dynamic_folder" : "Product_Subcategories",
         "dynamic_file" : "AdventureWorks_Product_Subcategories.csv"
     },
     {
-        "relative_url" : "SHR3YGO3L/projectsem7/blob/main/project-azure1/Data/AdventureWorks_Products.csv",
+        "relative_url" : "SHR3YGO3L/prohectazure1/refs/heads/main/Data/AdventureWorks_Products.csv",
         "dynamic_folder" : "AdventureWorks_Products",
         "dynamic_file" : "AdventureWorks_Products.csv"
     },
     {
-        "relative_url" : "SHR3YGO3L/projectsem7/blob/main/project-azure1/Data/AdventureWorks_Returns.csv",
+        "relative_url" : "SHR3YGO3L/prohectazure1/refs/heads/main/Data/AdventureWorks_Returns.csv",
         "dynamic_folder" : "AdventureWorks_Returns",
         "dynamic_file":"AdventureWorks_Returns.csv"
     },
     {
-        "relative_url" : "SHR3YGO3L/projectsem7/blob/main/project-azure1/Data/AdventureWorks_Sales_2015.csv",
+        "relative_url" : "SHR3YGO3L/prohectazure1/refs/heads/main/Data/AdventureWorks_Sales_2015.csv",
         "dynamic_folder" : "AdventureWorks_Sales_2015",
         "dynamic_file" : "AdventureWorks_Sales_2015.csv"
     },
     {
-        "relative_url" : "SHR3YGO3L/projectsem7/blob/main/project-azure1/Data/AdventureWorks_Sales_2016.csv",
+        "relative_url" : "SHR3YGO3L/prohectazure1/refs/heads/main/Data/AdventureWorks_Sales_2016.csv",
         "dynamic_folder" : "AdventureWorks_Sales_2016",
         "dynamic_file" : "AdventureWorks_Sales_2016.cvsv"
     },
     {
-        "relative_url" : "SHR3YGO3L/projectsem7/blob/main/project-azure1/Data/AdventureWorks_Sales_2017.csv",
+        "relative_url" : "SHR3YGO3L/prohectazure1/refs/heads/main/Data/AdventureWorks_Sales_2017.csv",
         "dynamic_folder" : "AdventureWorks_Sales_2017",
         "dynamic_file" : "AdventureWorks_Sales_2017.csv"
     },
     {
-        "relative_url" : "SHR3YGO3L/projectsem7/blob/main/project-azure1/Data/AdventureWorks_Territories.csv",
+        "relative_url" : "SHR3YGO3L/prohectazure1/refs/heads/main/Data/AdventureWorks_Territories.csv",
         "dynamic_folder" : "AdventureWorks_Territories",
         "dynamic_file" : "AdventureWorks_Territories.csv"
     }
+
 ]
